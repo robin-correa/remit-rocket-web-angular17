@@ -51,7 +51,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - Add environment variable: `S3_BUCKET` and set the value to your corresponding bucket name.
   - Sample:
     - Key: `S3_BUCKET`
-    - Value: `s3://angular17-cicd`
+    - Value: `s3://remit-rocket-web-angular17`
     - Type: `PLAINTEXT`
 
 - Buildspec file:
